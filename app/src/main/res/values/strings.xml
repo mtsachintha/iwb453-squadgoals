@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Memento</string>
+    <string name="fc2_nature_meditations">Memento</string>
+    <string name="favourites">For You</string>
+    <string name="category">Category</string>
+    <string name="trading">Trading on Memento</string>
+    <string name="add_product">Add a Product</string>
+    <string name="collection1_title">Coins and Notes</string>
+    <string name="collection2_title">Antiques</string>
+    <string name="collection3_title">Stamps</string>
+    <string name="collection4_title">Books and Manuscripts</string>
+    <string name="collection5_title">Toys and Games</string>
+    <string name="collection6_title">Vintage Automcobiles</string>
+    <string name="collection7_title">Art and Memorabilia</string>
+    <string name="collection8_title">Comics and Trading Cards</string>
+
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="bottom_navigation_messages">Messages</string>
+    <string name="bottom_navigation_cart">Cart</string>
+</resources>

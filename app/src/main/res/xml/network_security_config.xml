@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">choreoapis.dev</domain>
+        <domain includeSubdomains="true">2db89ec3-d86a-48ea-b7e3-2fd0eab84602-dev.e1-us-east-azure.choreoapis.dev</domain> <!-- Add the specific domain here -->
+    </domain-config>
+</network-security-config>
