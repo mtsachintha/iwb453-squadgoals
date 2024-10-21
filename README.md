@@ -50,7 +50,7 @@ The backend of this project is powered by Ballerina, handling all API calls and 
     bal run
     ```
 
-Note: You do not need to run the backend services locally, as they are already deployed on Choreo.
+***Note: You do not need to run the backend services locally, as they are already deployed on Choreo.***
 
 ## Contributing
 We welcome contributions! Please feel free to submit issues or pull requests if you'd like to contribute to this project.
