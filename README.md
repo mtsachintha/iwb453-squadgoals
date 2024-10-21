@@ -1,4 +1,4 @@
-Memento: A Collectors' Marketplace
+**Memento: A Collectors' Marketplace**
 
 Project Overview
 Memento is an Android application designed to connect collectors of rare and vintage items, such as action figures, cards, stamps, and coins. The app allows users to list, buy, and sell collectible items in a trusted marketplace environment. Built with modern Android development tools, Memento is crafted to provide an intuitive user experience for collectors to find and trade valuable items.
