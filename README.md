@@ -37,5 +37,12 @@ Memento is an Android application designed to connect collectors of rare and vin
 ## Backend & API
 The backend of this project is powered by Ballerina, handling all API calls and service integrations efficiently. You can find the Ballerina API code and related information here.
 
+1. Clone this repository:
+    ```bash
+https://github.com/mtsachintha/Ballerina
+    ```
+2. Open the project in VS Code.
+3. Sync the project with dependancies.
+
 ## Contributing
 We welcome contributions! Please feel free to submit issues or pull requests if you'd like to contribute to this project.
