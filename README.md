@@ -50,7 +50,7 @@ The backend of this project is powered by Ballerina, handling all API calls and 
     bal run
     ```
 
-***Note: You do not need to run the backend services locally, as they are already deployed on Choreo.***
+***Note: The backend is deployed on Choreo, but since the free plan only allows up to 3 hours of inactivity, the service may be down at times. In such cases, you will need to run the backend locally and update the API URL in the Kotlin services.***
 
 ## Contributing
 We welcome contributions! Please feel free to submit issues or pull requests if you'd like to contribute to this project.
