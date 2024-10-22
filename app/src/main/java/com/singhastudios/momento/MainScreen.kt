@@ -9,7 +9,7 @@ import androidx.navigation.compose.rememberNavController
 fun MainScreen() {
     val navController = rememberNavController()
 
-    NavHost(navController = navController, startDestination = "home") {
+    NavHost(navController = navController, startDestination = "onboarding") {
         composable("home") { HomeScreen(navController) }
         composable("login") { LogInScreen(navController) }
         composable("register") { RegisterScreen(navController) }
